@@ -1,29 +1,18 @@
-# README #
+# Employee Connect #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+With Employee Connect, you can quickly create a schedule for all of your employees and allow them to view it in real time. Communication boards allow for easy changes in the schedules without having to worry about conflicts. Employees can also request days off with the press of a button without requiring a call.
 
-### What is this repository for? ###
+### Features ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Create a Schedule
+* View Schedule
+* Easy Day off Requests
+* Communication Board
 
-### How do I get set up? ###
+### [Play Store](https://play.google.com/store/apps/details?id=ca.bvc.employeeconnect) ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+### Demo Registration Key for Employee ###
+* **1234567890**
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+### Demo Registration Key for Admin ###
+* **0987654321**
